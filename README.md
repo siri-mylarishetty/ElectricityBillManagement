@@ -1,2 +1,2 @@
 # ElectricityBillManagement
-Electricity Bill Management System using Java, JDBC, and MySQL with automatic bill calculation and customer managementgit add README.md
+Electricity Bill Management System using Java, JDBC, and MySQL with automatic bill calculation and customer management
